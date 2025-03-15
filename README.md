@@ -15,6 +15,8 @@
   -  excerpt from blogs
 - `docs-` mozilla官方文档摘录
   -  excerpt from mozilla docs
+- `blog-` 博客建设与参考
+  - Blog construction and reference
 - `thinking-` 阅读与思考
-  - reading books
+  - reading and thinking
   - list of libs, repos, examples...
