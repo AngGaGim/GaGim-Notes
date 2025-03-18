@@ -20,3 +20,7 @@
 - `thinking-` 阅读与思考
   - reading and thinking
   - list of libs, repos, examples...
+- `question-` 奇思妙想
+  - question records
+- `english-` 外语学习
+  - english learning
