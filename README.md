@@ -12,8 +12,8 @@
 - `tech-` 其他技术知识
   - topics about technology and cs
 - `page-` 直接转载复制的文章
-  -  excerpt from blogs
-- `docs-` mozilla官方文档摘录
+  -  bug fix records
+- `bug` 踩坑记录
   -  excerpt from mozilla docs
 - `blog-` 博客建设与参考
   - Blog construction and reference
