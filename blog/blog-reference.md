@@ -5,7 +5,7 @@
 
 记录一些长在审美上的博客，用于个人博客装修的参考
 
-## notion 建站参考
+## notion 
 1. https://szufrank.top/
 > 首页面板简洁
 
