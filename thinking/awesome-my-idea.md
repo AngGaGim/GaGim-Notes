@@ -14,3 +14,5 @@
 4. 自动生成微信公众号封面、抖音视频封面、小红书封面的图片自动化程序
 
 5. 自动将markdown笔记(obsidian、notion)同步至github、博客、csdn
+
+6. cot比较耗时怎么解决？
