@@ -93,5 +93,3 @@ rag弊端：
 • 有些规则适用于所有任务（比如 Agent Hospital，RICP），有些则是针对具体问题才调用的（比如 MedPrompt，Buffer-of-Thought）
 
 
-
-总结：本质上都是引导模型根据已知数据进行正确的思考，目前出现频率比较多的是few-shot、生成一些qa
