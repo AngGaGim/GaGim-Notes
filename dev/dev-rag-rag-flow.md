@@ -8,4 +8,4 @@
 ![[Pasted image 20250423143353.png]]
   
 ![[Pasted image 20250423143316.png]]
-
+### 2. token分块，一句话被两个分块截断
