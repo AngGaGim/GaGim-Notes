@@ -22,16 +22,35 @@
 #### 解决方法：
 遍历每一个section，再遍历每个section的每个字符串，如果遇到标点符号，则当前分块截断并结束。
 
+![[Pasted image 20250424145337.png]]
 
+![[Pasted image 20250424145401.png]]
 ### 3.标题未区分
 
 ![[Pasted image 20250424144422.png]]
 ![[Pasted image 20250424144436.png]]
 
 
+![[Pasted image 20250424145231.png]]
+
+
+![[Pasted image 20250424145245.png]]
 
 ### 4. 文本缺失
 
 ![[Pasted image 20250424144726.png]]
 
 ![[Pasted image 20250424144742.png]]
+
+
+### 5. 语序错乱
+![[Pasted image 20250424145005.png]]
+![[Pasted image 20250424145014.png]]
+
+
+### 6. 图片方向颠倒
+![[Pasted image 20250424145119.png]]
+![[Pasted image 20250424145127.png]]
+
+
+
