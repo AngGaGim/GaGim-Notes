@@ -202,5 +202,24 @@ models = model_provider_service.get_models_by_provider(
 
 
 ```
+  
+def get_models_by_provider(self, tenant_id: str, provider_id: str, _model_type: str | None) -> List:  
+    """  
+    get provider models.    For the model provider page,    only supports passing in a single provider to query the list of supported models.  
+    :param tenant_id:    :param provider:    :return:    """  
+    try:  
+        provider_configurations = self.provider_manager.get_configurations(tenant_id)  
+        provider_configuration = provider_configurations[provider_id]  
+        if provider_configuration.provider.provider_type == ProviderType.CUSTOM.value:  
+            provider_id = provider_configuration.provider.sdk_type  
+            provider_configuration = provider_configurations[provider_id]  
+        else:  
+            provider_configuration = provider_configurations[provider_id]  
+  
+        models = provider_configuration.get_provider_models(model_type=_model_type)  
 
+        models = [ ModelWithProviderEntityResponse(model).to_dict()  for model in models]  
+
+  
+        return models
 ```
