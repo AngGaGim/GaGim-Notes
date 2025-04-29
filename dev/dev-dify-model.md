@@ -181,3 +181,26 @@ class ProviderManager:
   
             provider_configurations[provider_name] = provider_configuration
 ```
+
+
+
+- 获取自定义供应商的自定义模型列表
+``
+```
+"""  
+获取模型列表  
+"""  
+tenant_id = current_user.current_tenant_id  
+  
+model_provider_service = AIProviderService()  
+models = model_provider_service.get_models_by_provider(  
+    tenant_id=tenant_id,  
+    provider_id=provider_id,  
+    _model_type=None  
+)
+```
+
+
+```
+
+```
