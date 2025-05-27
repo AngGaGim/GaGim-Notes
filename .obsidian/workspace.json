@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/ai-provider.md",
+                "file": "dev/dev-pdf-parser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ai-provider"
+              "title": "dev-pdf-parser"
             }
           }
         ],
@@ -210,8 +210,9 @@
   },
   "active": "5e3b1953ecff84ce",
   "lastOpenFiles": [
-    "dev/dev-dify-model.md",
     "temp/ai-provider.md",
+    "dev/dev-pdf-parser.md",
+    "dev/dev-dify-model.md",
     "未命名",
     "dev/dev-rag-rag-flow.md",
     "dev/imgs/Pasted image 20250424145005.png",
