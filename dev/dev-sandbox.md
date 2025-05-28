@@ -14,6 +14,8 @@
 
 #### 参考
 - 影刀
-- dify
-- e2b
+- dify sandbox (使用go开发)
+- e2b (是否支持动态安装依赖、不同版本？)
 - Codex
+- tablegpt 使用内核+requirements.txt(ipython)
+- 
