@@ -16,6 +16,6 @@
 - 影刀
 - dify sandbox (使用go开发)
 - e2b (是否支持动态安装依赖、不同版本？)
-- Codex
+-  Codex（ai）
 - tablegpt 使用内核+requirements.txt(ipython)
-- 
+- Jupyter Notebook的API perl（长时间运行可能性能较差）
