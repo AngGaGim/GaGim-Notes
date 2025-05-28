@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/dev-sandbox.md",
+                "file": "dev/dev-customer-ww.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dev-sandbox"
+              "title": "dev-customer-ww"
             }
           }
         ],
@@ -196,8 +196,8 @@
   },
   "active": "439c09bb086c17e2",
   "lastOpenFiles": [
-    "dev/dev-customer-ww.md",
     "dev/dev-sandbox.md",
+    "dev/dev-customer-ww.md",
     "dev/dev-pdf-parser.md",
     "temp/ai-provider.md",
     "dev/dev-dify-model.md",
