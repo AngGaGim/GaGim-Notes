@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d70029f-5f5f-4456-87b1-d201fb38f200" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0d70029f-5f5f-4456-87b1-d201fb38f200" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
         <option value="note" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -116,6 +114,7 @@
       <workItem from="1744211738783" duration="3735000" />
       <workItem from="1744297939547" duration="624000" />
       <workItem from="1744471066133" duration="63000" />
+      <workItem from="1749713775924" duration="57000" />
     </task>
     <servers />
   </component>
