@@ -24,3 +24,5 @@
 - smolagents
 - n8n
 - https://codesandbox.io/p/sandbox/github/codesandbox/sandbox-templates/tree/main/python
+横评文档
+https://hengyiai.feishu.cn/wiki/VWESwbzjci5dpUkdFc3ccZ5Zngb
