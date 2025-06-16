@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/dev-NL2SQL.md",
+                "file": "dev/dev-pdf-parser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dev-NL2SQL"
+              "title": "dev-pdf-parser"
             }
           }
         ],
@@ -197,8 +197,9 @@
   "active": "439c09bb086c17e2",
   "lastOpenFiles": [
     "dev/dev-rag.md",
-    "dev/dev-pdf-parser.md",
+    "dev/dev-sandbox.md",
     "dev/dev-NL2SQL.md",
+    "dev/dev-pdf-parser.md",
     "dev/dev-customer-ww.md",
     "dev/dev-dify-model.md",
     "thinking/awesome-my-idea.md",
@@ -208,7 +209,6 @@
     "未命名",
     "thinking/thiking-250408(NL2SQL).md",
     "oneai",
-    "dev/dev-sandbox.md",
     "temp/ai-provider.md",
     "dev/dev-rag-rag-flow.md",
     "dev/imgs/Pasted image 20250424145005.png",
