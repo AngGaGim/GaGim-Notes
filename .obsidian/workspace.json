@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pdf-parser/pdf解析测评文档.md",
+                "file": "dev/dev-pdfMathTraslate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pdf解析测评文档"
+              "title": "dev-pdfMathTraslate"
             }
           }
         ],
@@ -224,8 +224,8 @@
   },
   "active": "fd4029170078d0cf",
   "lastOpenFiles": [
-    "dev/dev-pdfMathTraslate.md",
     "pdf-parser/pdf解析测评文档.md",
+    "dev/dev-pdfMathTraslate.md",
     "pdf-parser.md",
     "pdf-parser",
     "evaluation-pdf-parser.md",
