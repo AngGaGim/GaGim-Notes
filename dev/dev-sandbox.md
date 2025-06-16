@@ -21,3 +21,6 @@
 - tablegpt 使用内核+requirements.txt(ipython)
 - Jupyter Notebook的API perl（长时间运行可能性能较差）
 - 沙盒服务开发 https://mp.weixin.qq.com/s/8aYYXw_AN8JFE8RN_Ft2Tw
+- smolagents
+- n8n
+- 
