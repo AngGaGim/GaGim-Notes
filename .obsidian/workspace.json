@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "dev-sandbox"
             }
+          },
+          {
+            "id": "b89caaf2b764a4ec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.10"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -213,6 +225,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -222,7 +235,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd4029170078d0cf",
+  "active": "b89caaf2b764a4ec",
   "lastOpenFiles": [
     "pdf-parser/pdf解析测评文档.md",
     "dev/dev-pdfMathTraslate.md",
