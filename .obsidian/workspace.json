@@ -79,12 +79,14 @@
             "id": "fb7ae7f52d65389c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "thinking/thinking-20250915.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.12"
+              "icon": "lucide-file",
+              "title": "thinking-20250915"
             }
           }
         ],
@@ -249,6 +251,10 @@
   },
   "active": "fb7ae7f52d65389c",
   "lastOpenFiles": [
+    "Pasted image 20250915125332.png",
+    "thinking/thiking-250409(rag_web_album).md",
+    "thinking/thinking-20250915.md",
+    "dev/dev-customer-ww.md",
     "pdf-parser/pdf解析测评文档.md",
     "dev/dev-pdfMathTraslate.md",
     "pdf-parser.md",
@@ -259,11 +265,9 @@
     "dev/dev-pdf-parser.md",
     "dev/dev-rag.md",
     "dev/dev-NL2SQL.md",
-    "dev/dev-customer-ww.md",
     "dev/dev-dify-model.md",
     "thinking/awesome-my-idea.md",
     "dev/dev-file-translation.ipynb",
-    "thinking/thiking-250409(rag_web_album).md",
     "README.md",
     "thinking/thiking-250408(NL2SQL).md",
     "oneai",
