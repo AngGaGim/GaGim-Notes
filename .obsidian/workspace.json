@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 292.5
   },
   "right": {
     "id": "8bd956081378db09",
@@ -279,11 +279,14 @@
   },
   "active": "95047a76b24e79b9",
   "lastOpenFiles": [
-    "dev/dev-semi-structured.md",
+    "thinking/imgs/Pasted image 20250915125332.png",
     "thinking/thinking-20250915.md",
+    "thinking/imgs",
+    "thinking/imgs/Pasted image 20251028163140.png",
+    "thinking/imgs/Pasted image 20251028163135.png",
+    "dev/dev-semi-structured.md",
     "thinking/thiking-250409(rag_web_album).md",
     "thinking/awesome-my-idea.md",
-    "Pasted image 20250915125332.png",
     "dev/dev-customer-ww.md",
     "pdf-parser/pdf解析测评文档.md",
     "dev/dev-pdfMathTraslate.md",
@@ -309,8 +312,6 @@
     "dev/imgs/Pasted image 20250424145412.png",
     "dev/imgs/Pasted image 20250424145401.png",
     "dev/imgs/Pasted image 20250424145337.png",
-    "dev/imgs/Pasted image 20250424145245.png",
-    "dev/imgs/Pasted image 20250424145231.png",
     "dev/dev-rag-llm_chunk.md",
     "bug/bug-celery.md",
     "bug/bug-git-commit.md",
