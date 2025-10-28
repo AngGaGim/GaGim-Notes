@@ -186,25 +186,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c78de7f5cd35518c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "dev/dev-rag-rag-flow.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "dev-rag-rag-flow 的反向链接列表"
-            }
-          },
-          {
             "id": "d81a64b1afe00181",
             "type": "leaf",
             "state": {
@@ -259,7 +240,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
