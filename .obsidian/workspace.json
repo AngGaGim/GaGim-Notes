@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/dev-semi-structured.md",
+                "file": "thinking/thinking-20250915.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dev-semi-structured"
+              "title": "thinking-20250915"
             }
           }
         ],
@@ -277,10 +277,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f18f2a2433f389f6",
+  "active": "95047a76b24e79b9",
   "lastOpenFiles": [
-    "thinking/thinking-20250915.md",
     "dev/dev-semi-structured.md",
+    "thinking/thinking-20250915.md",
     "thinking/thiking-250409(rag_web_album).md",
     "thinking/awesome-my-idea.md",
     "Pasted image 20250915125332.png",
