@@ -107,14 +107,12 @@
             "id": "95047a76b24e79b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "thinking/thinking-20250915.md",
-                "mode": "source",
-                "source": false
+                "file": "thinking/imgs/Pasted image 20251029162421.png"
               },
-              "icon": "lucide-file",
-              "title": "thinking-20250915"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251029162421"
             }
           }
         ],
@@ -245,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thinking/thinking-20250915.md",
+                "file": "thinking/imgs/Pasted image 20251029162421.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +253,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "thinking-20250915 的反向链接列表"
+              "title": "Pasted image 20251029162421 的反向链接列表"
             }
           }
         ],
@@ -277,15 +275,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95047a76b24e79b9",
+  "active": "f18f2a2433f389f6",
   "lastOpenFiles": [
+    "thinking/thinking-20250915.md",
     "thinking/awesome-my-idea.md",
     "thinking/imgs/Pasted image 20251028163655.png",
-    "thinking/thinking-20250915.md",
-    "Pasted image 20251029163439.png",
-    "Pasted image 20251029163410.png",
-    "Pasted image 20251029163231.png",
-    "Pasted image 20251029162421.png",
+    "thinking/imgs/Pasted image 20251029163439.png",
+    "thinking/imgs/Pasted image 20251029163410.png",
+    "thinking/imgs/Pasted image 20251029163231.png",
+    "thinking/imgs/Pasted image 20251029162421.png",
     "未命名.md",
     "thinking/thiking-250408(NL2SQL).md",
     "thinking/imgs/48653675-2929-4eb0-9b6a-3382e89493fe.png",
