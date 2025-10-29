@@ -1,0 +1,305 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        28,
+                        112,
+                        815,
+                        353
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                28,
+                                112,
+                                815,
+                                353
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        28,
+                                        112,
+                                        815,
+                                        353
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                28,
+                                                112,
+                                                815,
+                                                353
+                                            ],
+                                            "score": 0.757,
+                                            "html": "<table><tr><td colspan=\"2\">TES</td><td colspan=\"4\">■ENGINEERING/□PROTOTYPE CHANGE ORDER</td><td colspan=\"2\">Model Name:</td><td colspan=\"9\">JFS-15</td></tr><tr><td colspan=\"2\" rowspan=\"2\">SYMBOL: A</td><td rowspan=\"2\">CHANGE</td><td colspan=\"2\"></td><td rowspan=\"2\">=</td><td colspan=\"2\"></td><td colspan=\"9\">Dispositon: C = Cancel, K = Keep, R = Rework, RS = Re-sell, RTV = Return To Vendor, SB = Substitution,</td></tr><tr><td>A</td><td>ADD</td><td>DELETE</td><td>DESCRIPTION /</td><td></td><td>SC = Scrap Unit</td><td>Status</td><td>Vendor</td><td>Open</td><td>In</td><td>Stock</td><td>WIP</td><td>Finish</td><td>F/G</td></tr><tr><td>NO</td><td colspan=\"2\">ASSY PART NO.</td><td>SY</td><td>ID Loc.</td><td>PART NO.</td><td>SPECIFICATION</td><td>Q&#x27;TYOR</td><td>Cost</td><td></td><td>Stock</td><td></td><td>PO</td><td>Route</td><td></td><td></td><td>Goods</td><td>In Route</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2025-10-29/47e5e9e9-efeb-4e49-9946-d2ab1d8b2c6e/a49b523367608893161ac10669ceacf1d0c941a935e2d5b36783916d624fc918.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        28,
+                                        112,
+                                        815,
+                                        192.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        28,
+                                        192.33333333333331,
+                                        815,
+                                        272.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        28,
+                                        272.66666666666663,
+                                        815,
+                                        352.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                841,
+                594
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        22,
+                        568,
+                        303,
+                        578
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                568,
+                                303,
+                                579
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        568,
+                                        303,
+                                        579
+                                    ],
+                                    "score": 1.0,
+                                    "content": "file:///Users/txmmy/Downloads/表头提取测试 - CO-JUPITER-20240814a1 copy.html",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        377,
+                        15,
+                        554,
+                        25
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                377,
+                                15,
+                                555,
+                                27
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        377,
+                                        15,
+                                        555,
+                                        27
+                                    ],
+                                    "score": 1.0,
+                                    "content": "表头提取测试 - CO-JUPITER-20240814a1 copy.html",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        23,
+                        14,
+                        84,
+                        23
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                23,
+                                15,
+                                84,
+                                24
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        15,
+                                        84,
+                                        24
+                                    ],
+                                    "score": 1.0,
+                                    "content": "10/29/25, 4:02 PM",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        807,
+                        569,
+                        817,
+                        578
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                806,
+                                569,
+                                819,
+                                580
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        806,
+                                        569,
+                                        819,
+                                        580
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1/1",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        28,
+                        112,
+                        815,
+                        353
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                28,
+                                112,
+                                815,
+                                353
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        28,
+                                        112,
+                                        815,
+                                        353
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                28,
+                                                112,
+                                                815,
+                                                353
+                                            ],
+                                            "score": 0.757,
+                                            "html": "<table><tr><td colspan=\"2\">TES</td><td colspan=\"4\">■ENGINEERING/□PROTOTYPE CHANGE ORDER</td><td colspan=\"2\">Model Name:</td><td colspan=\"9\">JFS-15</td></tr><tr><td colspan=\"2\" rowspan=\"2\">SYMBOL: A</td><td rowspan=\"2\">CHANGE</td><td colspan=\"2\"></td><td rowspan=\"2\">=</td><td colspan=\"2\"></td><td colspan=\"9\">Dispositon: C = Cancel, K = Keep, R = Rework, RS = Re-sell, RTV = Return To Vendor, SB = Substitution,</td></tr><tr><td>A</td><td>ADD</td><td>DELETE</td><td>DESCRIPTION /</td><td></td><td>SC = Scrap Unit</td><td>Status</td><td>Vendor</td><td>Open</td><td>In</td><td>Stock</td><td>WIP</td><td>Finish</td><td>F/G</td></tr><tr><td>NO</td><td colspan=\"2\">ASSY PART NO.</td><td>SY</td><td>ID Loc.</td><td>PART NO.</td><td>SPECIFICATION</td><td>Q&#x27;TYOR</td><td>Cost</td><td></td><td>Stock</td><td></td><td>PO</td><td>Route</td><td></td><td></td><td>Goods</td><td>In Route</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2025-10-29/47e5e9e9-efeb-4e49-9946-d2ab1d8b2c6e/a49b523367608893161ac10669ceacf1d0c941a935e2d5b36783916d624fc918.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        28,
+                                        112,
+                                        815,
+                                        192.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        28,
+                                        192.33333333333331,
+                                        815,
+                                        272.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        28,
+                                        272.66666666666663,
+                                        815,
+                                        352.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.5.4"
+}
