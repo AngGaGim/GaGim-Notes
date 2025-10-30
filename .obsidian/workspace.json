@@ -111,7 +111,7 @@
               "state": {
                 "file": "thinking/thinking-20250915.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "thinking-20250915"
