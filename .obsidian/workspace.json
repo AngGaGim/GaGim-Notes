@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 385.5
   },
   "right": {
     "id": "8bd956081378db09",
@@ -277,20 +277,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f18f2a2433f389f6",
+  "active": "95047a76b24e79b9",
   "lastOpenFiles": [
-    "thinking/datasets/表头提取测试 - CO-JUPITER-20240814a1 copy.html_MinerU__20251029081723 1.json",
     "thinking/thiking-250409(rag_web_album).md",
+    "thinking/imgs/Pasted image 20251029163231.png",
+    "thinking/thinking-20250915.md",
     "thinking/thiking-250408(NL2SQL).md",
+    "thinking/awesome-my-idea.md",
+    "thinking/imgs/Pasted image 20251029161352.png",
+    "thinking/datasets/表头提取测试 - CO-JUPITER-20240814a1 copy.html_MinerU__20251029081723 1.json",
     "temp/ai-provider.md",
     "pdf-parser/pdf解析测评文档.md",
     "thinking/imgs/Pasted image 20251029162421.png",
-    "thinking/thinking-20250915.md",
-    "thinking/awesome-my-idea.md",
     "thinking/imgs/Pasted image 20251028163655.png",
     "thinking/imgs/Pasted image 20251029163439.png",
     "thinking/imgs/Pasted image 20251029163410.png",
-    "thinking/imgs/Pasted image 20251029163231.png",
     "未命名.md",
     "thinking/imgs/48653675-2929-4eb0-9b6a-3382e89493fe.png",
     "未命名",
@@ -301,7 +302,6 @@
     "thinking/imgs/Pasted image 20251029161711.png",
     "thinking/imgs/Pasted image 20251029161659.png",
     "thinking/imgs/Pasted image 20251029161551.png",
-    "thinking/imgs/Pasted image 20251029161427.png",
     "thinking/imgs",
     "dev/dev-semi-structured.md",
     "dev/dev-customer-ww.md",
@@ -317,7 +317,6 @@
     "dev/dev-dify-model.md",
     "dev/dev-file-translation.ipynb",
     "dev/README.md",
-    "oneai",
     "dev/dev-rag-rag-flow.md",
     "dev/dev-rag-llm_chunk.md",
     "bug/bug-celery.md",
