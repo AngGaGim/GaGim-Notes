@@ -25,12 +25,14 @@
             "id": "61a476fb3b9670ae",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "thinking/thinking-20250915.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.3"
+              "icon": "lucide-file",
+              "title": "thinking-20250915"
             }
           }
         ],
