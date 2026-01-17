@@ -46,9 +46,21 @@
               "icon": "lucide-book-up",
               "title": "版本说明 1.10.6"
             }
+          },
+          {
+            "id": "240279dde77d0267",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,7 +210,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -208,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f18f2a2433f389f6",
+  "active": "240279dde77d0267",
   "lastOpenFiles": [
     "未命名",
     "thinking/thiking-250409(rag_web_album).md",
