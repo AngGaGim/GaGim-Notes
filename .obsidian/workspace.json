@@ -58,9 +58,21 @@
               "icon": "lucide-book-up",
               "title": "版本说明 1.11.4"
             }
+          },
+          {
+            "id": "93a496f8299c8dde",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.5"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -220,7 +232,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "240279dde77d0267",
+  "active": "93a496f8299c8dde",
   "lastOpenFiles": [
     "未命名",
     "thinking/thiking-250409(rag_web_album).md",
