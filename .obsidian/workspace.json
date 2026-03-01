@@ -39,12 +39,14 @@
             "id": "931324e2d97aa47d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "pdf-parser/pdf解析测评文档.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.6"
+              "icon": "lucide-file",
+              "title": "pdf解析测评文档"
             }
           },
           {
@@ -82,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,8 +244,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9b2299af10ed2c4",
+  "active": "931324e2d97aa47d",
   "lastOpenFiles": [
+    "dev/dev-sandbox.md",
+    "dev/dev-pdfMathTraslate.md",
+    "dev/dev-NL2SQL.md",
     "未命名.canvas",
     "2026-02-27.md",
     "未命名 1.base",
@@ -274,14 +279,11 @@
     "thinking/imgs",
     "dev/dev-semi-structured.md",
     "dev/dev-customer-ww.md",
-    "dev/dev-pdfMathTraslate.md",
     "pdf-parser.md",
     "pdf-parser",
     "evaluation-pdf-parser.md",
-    "dev/dev-sandbox.md",
     "dev/dev-pdf-parser.md",
     "dev/dev-rag.md",
-    "dev/dev-NL2SQL.md",
     "dev/dev-dify-model.md",
     "dev/README.md",
     "dev/dev-rag-rag-flow.md",
