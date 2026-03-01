@@ -75,12 +75,10 @@
             "id": "e9b2299af10ed2c4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.7"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
@@ -246,6 +244,10 @@
   },
   "active": "e9b2299af10ed2c4",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "2026-02-27.md",
+    "未命名 1.base",
+    "未命名.base",
     "未命名",
     "thinking/thiking-250409(rag_web_album).md",
     "thinking/imgs/Pasted image 20251029163231.png",
@@ -276,13 +278,11 @@
     "pdf-parser.md",
     "pdf-parser",
     "evaluation-pdf-parser.md",
-    "evaluation",
     "dev/dev-sandbox.md",
     "dev/dev-pdf-parser.md",
     "dev/dev-rag.md",
     "dev/dev-NL2SQL.md",
     "dev/dev-dify-model.md",
-    "dev/dev-file-translation.ipynb",
     "dev/README.md",
     "dev/dev-rag-rag-flow.md",
     "dev/dev-rag-llm_chunk.md",
