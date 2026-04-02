@@ -62,6 +62,18 @@
             }
           },
           {
+            "id": "90707b46f8c0c404",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
+            }
+          },
+          {
             "id": "240279dde77d0267",
             "type": "leaf",
             "state": {
@@ -96,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -256,7 +268,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cd8c69a2afc8758",
+  "active": "90707b46f8c0c404",
   "lastOpenFiles": [
     "dev/dev-sandbox.md",
     "dev/dev-pdfMathTraslate.md",
